@@ -58,9 +58,6 @@ SOFTWARE.
 	Tested on Windows 7/10 x64.
 	Works with almost every 32bit PE. (I'm working to fix the 64bit version)
 	
-	P.S: The code isn't commented because I'm a really lazy person, sorry. =)
-	P.P.S: But I think that the variables name and the code is clean to can understand well how it works.
-	
 	N.B: If Visual Studio gives you an error about the missing "stdafx.h" file, right click the "PEInfect.cpp" file > Properties > C++ > Precompiled Headers
 		 > Precompiled Header and choose 'Not Using Precompiled Headers'
 */
