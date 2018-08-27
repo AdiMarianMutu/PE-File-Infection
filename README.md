@@ -22,7 +22,7 @@ If everything is fine, he will *update* the **OEP** (*Original Entry Point*) of 
 <br/>
 When the shellcode has finished, the virus will redirect the "program code" to the **real OEP** of the host, so the user will think that everything is ok.
 ## A little demonstration
-The virus will infect the [**AES Protect**](https://www.directorandgeneral.com/aes-protect/) PE with the [WinExec_Calc_x86.asm](https://github.com/Xxshark888xX/PE-File-Infection/blob/master/src/WinExec_calc_x86.asm) shellcode, who when launched will first execute **calc.exe**
+The virus will infect the [**AES Protect**](https://www.directorandgeneral.com/aes-protect/) PE with the [WinExec_Calc_x86.asm](https://github.com/Xxshark888xX/PE-File-Infection/blob/master/src/WinExec_calc_x86.asm) shellcode, which when launched will first execute **calc.exe**
 <br/>
 [**GIFV Demonstration**](https://i.imgur.com/ub4d94H.gifv)
 ## Special thanks to
