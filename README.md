@@ -1,5 +1,5 @@
 # PE File Infection
-Infects *only* 32bit PE files (*I'm working on a solution to can infect also 64bit PE*)
+Infects *only* 32bit PE files (*I'm working on a solution to make it works also with 64bit PE*)
 <br/>
 <br/>
 ## Features
