@@ -357,7 +357,7 @@ BOOL IsInfectable(PEINFECTION_RESULT &_result) {
 	
 	if (_g_peIs64bit) {
 
-		// I'm working on a solution to can infect also 64bit PE.
+		// I'm working on a solution to infect also 64bit PE.
 		// Theoretically "already" works because he successfully infects the 64 bit PE with a working shellcode
 		// but after the shellcode ends, the host crashes :(
 		// So for now if a target PE is 64bit, the code will abort the infection
