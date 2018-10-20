@@ -9,7 +9,7 @@ Infects *only* 32bit PE files (*I'm working on a solution to make it works also 
 <br/>
 ●Clean code
 <br/>
-### How is it works
+### How it works
 The virus will create in **memory** a *map* of the host (PE), after that he will start to analyze it.
 If he finds that the host is *already infected*, he will stop the infection.
 <br/>
